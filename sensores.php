@@ -74,7 +74,7 @@ exit;
                 define('DB_HOST', 'localhost');
                 define('DB_USERNAME', 'maria');
                 define('DB_PASSWORD', 'maria');
-                define('DB_NAME', 'Corriente');
+                define('DB_NAME', 'corriente');
                 $mysqli = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);
                 if(!$mysqli){
                   die("Connection failed: " . $mysqli->error);

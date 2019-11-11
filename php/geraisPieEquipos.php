@@ -5,7 +5,7 @@ header('Content-Type: application/json');
 define('DB_HOST', 'localhost');
 define('DB_USERNAME', 'maria');
 define('DB_PASSWORD', 'maria');
-define('DB_NAME', 'Corriente');
+define('DB_NAME', 'corriente');
 
 $decimales = 0;
 

@@ -1,8 +1,8 @@
 <?php
 // Include config file
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_USERNAME', 'maria');
+define('DB_PASSWORD', 'maria');
 define('DB_NAME', 'corriente');
  
 /* Attempt to connect to MySQL database */
